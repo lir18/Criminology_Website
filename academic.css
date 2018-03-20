@@ -1,0 +1,21 @@
+head {
+  font: Helvetica;
+  font-size: large;
+  text-align: center;
+}
+body {
+  font-size: large;
+  text-align: justify;
+  padding: 100px;
+  background-image: url("https://www.xmple.com/wallpaper/white-green-dots-spots-polka-1920x1080-c2-ffffff-90ee90-l2-72-102-a-345-f-3.svg");
+}
+h1 {
+  text-align: center;
+  font: Helvetica;
+  color: Crimson;
+}
+h2 {
+  color: RoyalBlue;
+  text-align: center;
+  style: Papyrus;
+}
