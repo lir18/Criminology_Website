@@ -3,22 +3,30 @@ head {
   font-size: large;
   text-align: center;
 }
+
 body {
   font-size: large;
   text-align: justify;
   padding: 100px;
   background-image: url("http://backgrounds.picaboo.com/download/98/89/9897124797d54e78a282450b847b0958/Pale%20Green%20Polka%20Dots%201.jpg");
 }
+
 h1 {
   text-align: center;
   font: Helvetica;
   color: Crimson;
 }
+
 h2 {
   color: RoyalBlue;
   text-align: center;
   style: Papyrus;
 }
+
+h3{
+  color: DarkBlue;
+}
+
 .center {
     display: block;
     margin-left: auto;
