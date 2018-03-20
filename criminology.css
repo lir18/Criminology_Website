@@ -3,8 +3,14 @@ head {
   font-size: large;
   text-align: center;
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 body {
-  font: Special elite;
+  font: Papyrus;
   font-size: large;
 }
 /*Introducing the Home Page */
@@ -23,13 +29,7 @@ h2 {
   font: italic bold 12px/30px Georgia, serif;
   font-size: large;
 }
-/* Dropdown tool bar */
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
+
 .navbar {
     overflow: hidden;
     background-color: #333;
@@ -90,7 +90,6 @@ h2 {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
 /* Bordered form */
 form {
     border: 3px solid #f1f1f1;

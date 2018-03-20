@@ -1,0 +1,27 @@
+head {
+  font: Helvetica;
+  font-size: large;
+  text-align: center;
+}
+body {
+  font-size: large;
+  text-align: justify;
+  padding: 100px;
+  background-image: url("https://www.xmple.com/wallpaper/hexagon-blue-dots-polka-white-1920x1080-c2-add8e6-ffffff-l2-141-274-a-25-f-4.svg");
+}
+h1 {
+  text-align: center;
+  font: Helvetica;
+  color: Crimson;
+}
+h2 {
+  color: RoyalBlue;
+  text-align: center;
+  style: Papyrus;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
